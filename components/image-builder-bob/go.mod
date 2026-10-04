@@ -7,7 +7,7 @@ godebug tlsmlkem=0
 require (
 	github.com/containerd/containerd/v2 v2.2.3
 	github.com/distribution/reference v0.6.0
-	github.com/docker/cli v29.4.3+incompatible
+	github.com/docker/cli v29.8.1+incompatible
 	github.com/gitpod-io/gitpod/common-go v0.0.0-00010101000000-000000000000
 	github.com/google/go-containerregistry v0.20.7
 	github.com/hashicorp/go-retryablehttp v0.7.8
