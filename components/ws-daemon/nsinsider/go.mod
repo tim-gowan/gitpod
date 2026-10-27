@@ -6,9 +6,9 @@ godebug tlsmlkem=0
 
 require (
 	github.com/gitpod-io/gitpod/common-go v0.0.0-00010101000000-000000000000
-	github.com/google/nftables v0.1.0
+	github.com/google/nftables v0.3.0
 	github.com/urfave/cli/v2 v2.3.0
-	github.com/vishvananda/netlink v1.1.1-0.20210330154013-f5de75959ad5
+	github.com/vishvananda/netlink v1.3.0
 	golang.org/x/sys v0.45.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
 )
@@ -23,8 +23,8 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 // indirect
 	github.com/hashicorp/golang-lru v1.0.2 // indirect
 	github.com/josharian/native v0.0.0-20200817173448-b6b71def0850 // indirect
-	github.com/mdlayher/netlink v1.4.2 // indirect
-	github.com/mdlayher/socket v0.0.0-20211102153432-57e3fa563ecb // indirect
+	github.com/mdlayher/netlink v1.7.3-0.20250113171957-fbb4dce95f42 // indirect
+	github.com/mdlayher/socket v0.5.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/prometheus/client_golang v1.19.1 // indirect
@@ -33,7 +33,7 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/vishvananda/netns v0.0.0-20200728191858-db3c7e526aae // indirect
+	github.com/vishvananda/netns v0.0.4 // indirect
 	golang.org/x/mod v0.35.0 // indirect
 	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
