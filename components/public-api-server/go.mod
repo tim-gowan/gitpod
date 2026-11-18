@@ -7,7 +7,7 @@ godebug tlsmlkem=0
 require (
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20220708163326-82d177caec6e
 	github.com/bufbuild/connect-go v1.10.0
-	github.com/coreos/go-oidc/v3 v3.5.0
+	github.com/coreos/go-oidc/v3 v3.17.0
 	github.com/gitpod-io/gitpod/common-go v0.0.0-00010101000000-000000000000
 	github.com/gitpod-io/gitpod/components/gitpod-db/go v0.0.0-00010101000000-000000000000
 	github.com/gitpod-io/gitpod/components/public-api/go v0.0.0-00010101000000-000000000000
